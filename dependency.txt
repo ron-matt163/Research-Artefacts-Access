@@ -1,0 +1,7 @@
+DEPENDENCIES INSTALLED
+
+* mysql-connector-java-8.0.19.jar
+  has to be downloaded and placed in the project folder to connect to the MySQL database
+
+* JDK 1.8 is installed
+* Java(TM) SE Runtime Environment (build 13.0.2+8)
